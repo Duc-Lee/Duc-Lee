@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- 3 hàng x 6 icon = 18 icon cân đối -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,linux,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,pytorch,postgresql,mysql,redis,rabbitmq&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,linux,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,pytorch,postgresql,jaeger,redis,rabbitmq&perline=6" />
   <br/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
