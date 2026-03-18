@@ -20,12 +20,13 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,kubernetes,docker,linux,git,prometheus,grafana,pytorch,jenkins,terraform&perline=5" />
+  <!-- 3 hàng x 6 icon = 18 icon cân đối -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,linux,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,pytorch,postgresql,mysql,redis,rabbitmq&perline=6" />
   <br/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
----
+
